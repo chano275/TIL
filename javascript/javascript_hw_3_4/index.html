@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="utf-8">
+<head>
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <ul class="switcher">
+    <li id="grayButton"></li>
+    <li id="whiteButton"></li>
+    <li id="navyButton"></li>
+  </ul>
+  
+  <h1>Theme Switcher</h1>
+  
+  <p>테마 변경 기능 구현하기</p>
+
+  <script>
+    const ul_list = document.querySelector('ul') // li를 자식으로 가지고 있음 
+
+    function colorChange(event){
+
+    const body_control = document.querySelector('body')
+
+      if ( event.target.id == 'grayButton'){
+        body_control.style.color = 'white'
+        body_control.style.backgroundColor  = 'gray'
+      }
+      else if (event.target.id == 'whiteButton'){
+        body_control.style.color = 'black'
+        body_control.style.backgroundColor  = 'white'
+      }
+      else if (event.target.id == 'navyButton'){
+        body_control.style.color = 'white'
+        body_control.style.backgroundColor  = 'navy'
+      }      
+
+    }
+  
+    ul_list.addEventListener('click', colorChange)
+  </script>
+</body>
+</html>

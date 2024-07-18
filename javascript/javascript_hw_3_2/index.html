@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    .done {
+      text-decoration: line-through;
+    }
+  </style>
+</head>
+<body>
+  <form action="/todos/">
+    <input type="text">
+    <button>Todo</button>
+  </form>
+  <ul></ul>
+
+<script>
+  const form = document.querySelector('form')
+
+
+
+  const input = document.querySelector('input'); // input 에서 입력 받아올 것 
+  const todoList = document.querySelector('ul'); // unordered list 에 추가할 것 
+
+  function addTodo (event) {
+    // 이벤트 취소
+    event.preventDefault() // submit 하는, todo 클릭 시 창 이동하는 기본 동작 막기 
+
+    // // 입력 element를 찾고 해당 입력 element의 value 값을 저장
+    const inputText_ = input.value.trim(); // 입력값 chk할 요소 / .trim 안하면 space + 버튼클릭 시 요소 들어간다. 
+    if (inputText_ === '') {
+      alert('할 일을 입력해주세요.')        // 빈값 데이터 방지 했으므로 빈값 들어오면 브라우저 출력 
+      return;
+    }
+
+    // li element를 생성 후 input element의 value 값을 데이터로 저장
+    const li = document.createElement('li'); // li element 생성 
+    li.textContent = inputText_;               // 위 문단에서 받아온 input li 에 추가 
+
+    // ul 태그의 자식 태그로 위에서 생성한 li element를 넣는다.
+    todoList.appendChild(li);
+    
+    // 삭제 버튼을 생성 후 li 태그의 자식 태그로 넣는다.
+    const deleteButton = document.createElement('button'); // 삭제 버튼 생성 
+    deleteButton.textContent = 'X';                        // 삭제버튼에 적히는 글자 
+    li.appendChild(deleteButton);                          // 삭제 버튼을 자식으로 추가  >  여기서 묶어놔서 밑에서 remove 할때 같이 지워지는 
+    
+    // 삭제 버튼을 클릭하면 해당 li element를 삭제한다
+    deleteButton.addEventListener('click', () => {         // 클릭 누르면  
+      todoList.removeChild(li);                            // 클릭한 항목 삭제 ( li도 같이 날아감 )
+    });
+    
+    // li element를 클릭하면 취소선이 토글된다.
+    li.addEventListener('click', () => {  // li 클릭 시
+      li.classList.toggle('done');        // done : 취소선 토글 
+    });
+
+
+
+
+
+    input.value = '';               // 데이터 작성 후 인풋 초기화 
+  }
+
+
+
+
+  form.addEventListener('submit', addTodo)
+</script>
+</body>
+</html>

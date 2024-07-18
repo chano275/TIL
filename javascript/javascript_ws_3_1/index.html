@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <div>
+      Input: <input id="userInput" type="text" autofocus>
+    </div>
+  
+    <div>
+      Output: <span id="output"></span>
+    </div>
+
+    <script>      
+      const badWords = ['바보', '멍청', '메롱', ]
+      const userInput = document.querySelector('#userInput')    
+      const output = document.querySelector('#output')
+
+      function filterMessage(event) {
+        let filmsg = userInput.value
+        badWords.forEach((badWord) => {
+          filmsg = filmsg.replaceAll(badWord, '**')
+        })
+        output.innerText = filmsg
+      }
+      userInput.addEventListener('input', filterMessage)   
+
+    </script>
+</body>
