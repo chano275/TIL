@@ -1,0 +1,217 @@
+cast_id,movie_id,name,character,order
+56322,1022789,Amy Poehler,Joy (voice),0
+1903874,1022789,Maya Hawke,Anxiety (voice),1
+3020876,1022789,Kensington Tallman,Riley (voice),2
+51998,1022789,Liza Lapira,Disgust (voice),3
+169200,1022789,Phyllis Smith,Sadness (voice),4
+59258,1022789,Lewis Black,Anger (voice),5
+25147,1022789,Tony Hale,Fear (voice),6
+2195140,1022789,Ayo Edebiri,Envy (voice),7
+586757,1022789,Adèle Exarchopoulos,Ennui (voice),8
+1469135,1022789,Lilimar,Valentina (voice),9
+3264370,1022789,Grace Lu,Grace (voice),10
+4495,519182,Steve Carell,Felonious Gru / Chet (voice),0
+41091,519182,Kristen Wiig,Lucy Gru / Blanche (voice),1
+125025,519182,Joey King,Poppy Prescott (voice),2
+23659,519182,Will Ferrell,Maxime Le Mal (voice),3
+63522,519182,Sofía Vergara,Valentina (voice),4
+17743,519182,Miranda Cosgrove,Margo / Bree (voice),5
+124750,519182,Dana Gaier,Edith / Blair (voice),6
+4505121,519182,Madison Polan,Agnes / Britney (voice),7
+124747,519182,Pierre Coffin,Minions (voice),8
+4581,519182,Steve Coogan,Silas Ramsbottom (voice),9
+58769,519182,Stephen Colbert,Perry Prescott (voice),10
+73457,748783,Chris Pratt,Garfield (voice),0
+2231,748783,Samuel L. Jackson,Vic (voice),1
+1278487,748783,Hannah Waddingham,Jinx (voice),2
+10182,748783,Ving Rhames,Otto (voice),3
+3292,748783,Nicholas Hoult,Jon (voice),4
+1093919,748783,Cecily Strong,Marge Malone (voice),5
+210172,748783,Harvey Guillén,Odie (voice),6
+21422,748783,Brett Goldstein,Roland (voice),7
+1564920,748783,Bowen Yang,Nolan (voice),8
+19767,748783,Snoop Dogg,Maurice (voice),9
+2692283,748783,Janelle James,Olivia (voice),10
+1397778,786892,Anya Taylor-Joy,Furiosa,0
+74568,786892,Chris Hemsworth,Dementus,1
+52891,786892,Tom Burke,Praetorian Jack,2
+2431565,786892,Alyla Browne,Young Furiosa,3
+148899,786892,George Shevtsov,The History Man,4
+75122,786892,Lachy Hulme,Immortan Joe / Rizzdale Pell,5
+102603,786892,John Howard,The People Eater,6
+59117,786892,Angus Sampson,Organic Mechanic,7
+4441956,786892,Charlee Fraser,Mary Jabassa,8
+73269,786892,Elsa Pataky,Vuvalini General / Mr Norton,9
+24898,786892,Nathan Jones,Rictus Erectus,10
+1586047,653346,Owen Teague,Noa,0
+2146942,653346,Freya Allan,Nova / Mae,1
+79072,653346,Kevin Durand,Proximus Caesar,2
+1444816,653346,Peter Macon,Raka,3
+3905,653346,William H. Macy,Trevathan,4
+966554,653346,Eka Darville,Sylva,5
+1394427,653346,Travis Jeffery,Anaya,6
+2435321,653346,Lydia Peckham,Soona,7
+136295,653346,Neil Sandilands,Koro,8
+3757983,653346,Ras-Samuel Welda'abzgi,Lightning,9
+103406,653346,Sara Wiseman,Dar,10
+2309874,974262,Kylie Cantrall,Red,0
+2630461,974262,Malia Baker,Chloe,1
+1089873,974262,Rita Ora,Queen of Hearts,2
+33285,974262,Brandy Norwood,Cinderella,3
+1675772,974262,Ruby Rose Turner,Bridget,4
+3797199,974262,Morgan Dudley,Ella,5
+1980484,974262,Dara Reneé,Uliana,6
+80613,974262,China Anne McClain,Uma,7
+1212273,974262,Melanie Paxson,Fairy Godmother,8
+1455769,974262,Julee Cerda,Evil Stepmother,9
+24200,974262,Leonardo Nam,Maddox Hatter,10
+2888,573435,Will Smith,Mike Lowrey,0
+78029,573435,Martin Lawrence,Marcus Burnett,1
+67599,573435,Vanessa Hudgens,Kelly,2
+23498,573435,Alexander Ludwig,Dorn,3
+544442,573435,Paola Nuñez,Rita,4
+58115,573435,Eric Dane,McGrath,5
+65524,573435,Ioan Gruffudd,Lockwood,6
+2256312,573435,Jacob Scipio,Armando,7
+1399166,573435,Melanie Liburd,Christine,8
+74610,573435,Tasha Smith,Theresa Burnett,9
+62765,573435,Rhea Seehorn,Judy,10
+776,280180,Eddie Murphy,Axel Foley,0
+24045,280180,Joseph Gordon-Levitt,Detective Bobby Abbott,1
+1335818,280180,Taylour Paige,Jane Saunders,2
+777,280180,Judge Reinhold,Billy Rosewood,3
+778,280180,John Ashton,Chief John Taggart,4
+781,280180,Paul Reiser,Jeffrey,5
+4689,280180,Bronson Pinchot,Serge,6
+4724,280180,Kevin Bacon,Captain Cade Grant,7
+4809376,280180,Jameison Walker II,Traffic Cop,8
+4809377,280180,Tony Jones,Fireworks Kid,9
+3893463,280180,Ed Cali,Young Guard,10
+76788,560016,Dev Patel,Kid,0
+82191,560016,Sharlto Copley,Tiger,1
+225163,560016,Pitobash,Alphonso,2
+2125273,560016,Adithi Kalkunte,Neela,3
+229123,560016,Sikandar Kher,Rana Singh,4
+130990,560016,Makrand Deshpande,Baba Shakti,5
+85657,560016,Ashwini Kalsekar,Queenie,6
+52768,560016,Vipin Sharma,Alpha,7
+1643582,560016,Sobhita Dhulipala,Sita,8
+234990,560016,Brahim Achabbakhe,King Kobra / Sher Khan,9
+4606857,560016,Jatin Malik,Young Kid,10
+934,646683,Russell Crowe,Anthony Miller,0
+35027,646683,Ryan Simpkins,Lee Miller,1
+65731,646683,Sam Worthington,Joe,2
+86800,646683,Chloe Bailey,Blake Holloway,3
+6163,646683,Adam Goldberg,Peter,4
+11076,646683,David Hyde Pierce,Father Conor,5
+17304,646683,Adrian Pasdar,Tom,6
+1549537,646683,Tracey Bonner,Regina,7
+20767,646683,Samantha Mathis,Jennifer Simon,8
+3070232,646683,Marcenae Lynette,Monica,9
+1181557,646683,Josh Warren,Donnie,10
+1263585,1191610,Nicolás Furtado,Goyo,0
+114811,1191610,Nancy Dupláa,Eva,1
+93647,1191610,Soledad Villamil,Saula,2
+93648,1191610,Pablo Rago,Matute,3
+953,1191610,Cecilia Roth,Magda,4
+230222,1191610,Diego Alonso,Miguel,5
+4223671,1191610,Milo Zeus Lis,Tato,6
+2388420,1191610,Balthazar Murillo,Cuti,7
+4837432,1191610,Javier Linares,Augusto,8
+1847872,1191610,Graciana Urbani,Anita,9
+4761378,1191610,Mayra Homar,Lucy,10
+15556,823464,Rebecca Hall,Ilene Andrews,0
+226366,823464,Brian Tyree Henry,Bernie Hayes,1
+221018,823464,Dan Stevens,Trapper,2
+2948491,823464,Kaylee Hottle,Jia,3
+60416,823464,Alex Ferns,Mikael,4
+123701,823464,Fala Chen,Iwi Queen,5
+15298,823464,Rachel House,Hampton,6
+2896645,823464,Ron Smyck,Harris,7
+1984017,823464,Chantelle Jamieson,Jayne,8
+2096500,823464,Greg Hatton,Lewis,9
+61782,823464,Kevin Copeland,Submarine Commander,10
+2643744,943344,Wei Wei,He Chi,0
+3442959,943344,Wei Lu,Wu Linna,1
+1611492,943344,Zhang Chunzhong,He Jianghai,2
+2511432,943344,Yue Dongfeng,Lao Jia,3
+2477191,943344,Li Ruoxi,Ah Lei,4
+3591869,943344,Tang Xin,Wang Qidong,5
+2405688,943344,Shuangli Zhang,Boss Bai,6
+3277566,943344,Li Gaoji,Xiao Liu,7
+84215,1159518,Jackson Rathbone,Leo,0
+61363,1159518,Alex Pettyfer,,1
+147382,1159518,Eve Mauro,,2
+1268071,1159518,Ashton Leigh,,3
+1336359,1159518,Wayne Gordon,,4
+2478372,1159518,Sadie Newman,,5
+30067,1159518,Thomas Downey,,6
+1398254,1159518,Niki Spiridakos,,7
+2191507,1159518,Gene Freeman,,8
+3479493,1159518,Frank Corbie,,9
+2461,1114738,Mel Gibson,Agent Petrovick,0
+34070,1114738,Nora Zehetner,Detective Young,1
+1679798,1114738,Gabrielle Haugh,Selena,2
+62644,1114738,50 Cent,Chief Carter,3
+12792,1114738,Brian Van Holt,Detective Ortega,4
+77740,1114738,Spice Williams-Crosby,Diane Cross,5
+1315801,1114738,Weston Cage,Caesar Monto,6
+929065,1114738,Michael Sirow,Tate,7
+4807789,1114738,Sean Patrick Bryan,SWAT Officer,8
+4007704,1114738,Brenna Marie Narayan,Maria,9
+4591427,1114738,Lilo Baier,Jourdan,10
+2524776,1143019,Inès Reg,Alia Samani,0
+2988160,1143019,Kévin Debonne,Hugo Beaumont,1
+54233,1143019,Vincent Rottiers,Stan Bogaert,2
+20532,1143019,Moussa Maaskri,Amar Samani,3
+1538412,1143019,François Neycken,Dugravot,4
+4263683,1143019,Pierre Olivier,Patrice Jambier,5
+4786783,1143019,Hugo Gonzalez,Mouss,6
+2916758,1143019,Daphné Huynh,Police scientifique,7
+2246060,1143019,Loriane Klupsch,Sylvia,8
+3864438,1143019,Adèle Sierra,Flic,9
+1132641,1143019,Kévin Azaïs,Joss Bogaert,10
+10859,533535,Ryan Reynolds,Wade Wilson / Deadpool,0
+6968,533535,Hugh Jackman,Logan / Wolverine,1
+2324569,533535,Emma Corrin,Cassandra Nova,2
+54882,533535,Morena Baccarin,Vanessa,3
+1091324,533535,Rob Delaney,Peter,4
+122750,533535,Leslie Uggams,Blind Al,5
+1109702,533535,Karan Soni,Dopinder,6
+15576,533535,Matthew Macfadyen,Mr. Paradox,7
+1492326,533535,Brianna Hildebrand,Ellie Phimister / Negasonic Teenage Warhead,8
+230660,533535,Shioli Kutsuna,Yukio / Pinkie Pie,9
+80507,533535,Stefan Kapicic,Piotr Rasputin / Colossus (voice),10
+205,929590,Kirsten Dunst,Lee,0
+52583,929590,Wagner Moura,Joel,1
+1683343,929590,Cailee Spaeny,Jessie,2
+196179,929590,Stephen McKinley Henderson,Sammy,3
+109019,929590,Nelson Lee,Tony,4
+17039,929590,Nick Offerman,President,5
+1385813,929590,Jefferson White,Dave,6
+2001956,929590,Evan Lai,Bohai,7
+1431398,929590,Vince Pisani,Concierge,8
+2145383,929590,Justin James Boykin,American Soldier (Middle East),9
+3641129,929590,Jess Matney,Checkpoint Soldier,10
+82923,1001311,Bérénice Bejo,Sophia,0
+1003260,1001311,Nassim Lyes,Adil,1
+1717801,1001311,Léa Léviant,Mika,2
+2173699,1001311,Nagisa Morimoto,Ben,3
+1414117,1001311,Anaïs Parello,Jade,4
+3452589,1001311,Iñaki Lartigue,Juan,5
+54168,1001311,Anne Marivin,Mayor of Paris,6
+2403317,1001311,Timi-Joy Marbot,Raphaël,7
+1355622,1001311,Ricky Tribord,Marine Officer,8
+4287,1001311,Aurélia Petit,Angèle,9
+2166824,1001311,Sandra Parfait,Caro,10
+56322,150540,Amy Poehler,Joy (voice),0
+169200,150540,Phyllis Smith,Sadness (voice),1
+21125,150540,Richard Kind,Bing Bong (voice),2
+19278,150540,Bill Hader,Fear (voice),3
+59258,150540,Lewis Black,Anger (voice),4
+125167,150540,Mindy Kaling,Disgust (voice),5
+1371894,150540,Kaitlyn Dias,Riley (voice),6
+2882,150540,Diane Lane,Mom (voice),7
+6677,150540,Kyle MacLachlan,Dad (voice),8
+196502,150540,Paula Poundstone,Forgetter Paula (voice),9
+452205,150540,Bobby Moynihan,Forgetter Bobby (voice),10
