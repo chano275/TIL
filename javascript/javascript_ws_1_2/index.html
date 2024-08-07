@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    // 동등 연산자를 활용한 조건문
+    if (0 == []) {
+      console.log('true?')
+    } else {
+      console.log('false?')
+    }
+    // 실행 결과 : true? << 0와 비여있는 배열을 동일하게 보기 떄문에, 우리가 원하는 결과를 위해서는 === 써야함 
+
+    // 일치 연산자를 활용한 조건문
+    if ({} === false) {
+      console.log('true?')
+    } else {
+      console.log('false?')
+    }
+    // 실행 결과 : false? << 일치 연산자라 값만 비교. 
+
+    // 논리 연산자를 활용한 단축 평가
+    console.log(0 && 13)
+    // 실행 결과 : 0 << 둘중에 하나라도 0이면 0 반환
+    console.log(0 || 13)
+    // 실행 결과 : 13 << 둘중에 하나라도 0이 아니면 해당 값 변환
+
+    let num = 12
+    num /= 3
+    console.log(num)
+    // 실행 결과 : 4 << 파이썬과 동일한 동작 
+
+    const number = 13
+    number++
+    // 실행 결과 : TypeError: Assignment to constant variable. << const 로 선언했기 때문에 재할당 불가 
+
+  </script>
+</body>
+</html>
