@@ -1,17 +1,18 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-
 # 1. 데이터 로드
-file_path = ___________
-customer_data = __________
+file_path = 'customer_data.csv'
+customer_data = pd.read_csv(file_path)
+a = pd.data
+print(customer_data)
 
-# 데이터 구조 확인
+데이터 구조 확인
 print(customer_data.info())
 print(customer_data.describe())
 
 # 2. 결측치 처리
-customer_data = _______________
+customer_data = pd.
 print(f"결측치 제거 후 데이터셋 크기: {customer_data.shape}")
 
 # 3. 이상치 탐지 및 처리
@@ -30,3 +31,5 @@ for column in ['Age', 'AnnualIncome']:
 _____________________
 plt.title('Age vs Annual Income')
 plt.show()
+
+a = pd.
