@@ -1,3 +1,16 @@
+# # Your gitlab id
+USER_NAME = 'chano01794'
+
+# # Root directory you want
+ROOT_PATH = './'
+
+
+
+
+
+
+
+
 # GitAuto
 
 **SSYFY 교육생**을 위한 자동 gitlab pull / push 툴입니다.

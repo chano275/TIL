@@ -4,10 +4,17 @@
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data_analysis_hw_15_2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data_analysis_hw_15_4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data_analysis_hw_16_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data_analysis_hw_16_4" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data_analysis_ws_15_1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data_analysis_ws_15_2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data_analysis_ws_15_3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data_analysis_ws_15_4" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data_analysis_ws_15_5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data_analysis_ws_16_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data_analysis_ws_16_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data_analysis_ws_16_3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data_analysis_ws_16_4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data_analysis_ws_16_5" vcs="Git" />
   </component>
 </project>
