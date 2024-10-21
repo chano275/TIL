@@ -1,0 +1,45 @@
+Transformer Model Module:
+TransformerModel(
+  (embedding): Embedding(10000, 128)
+  (positional_encoding): PositionalEncoding(
+    (dropout): Dropout(p=0.1, inplace=False)
+  )
+  (encoder_layers): ModuleList(
+    (0-5): 6 x TransformerEncoderLayer(
+      (self_attention): MultiheadAttention(
+        (out_proj): NonDynamicallyQuantizableLinear(in_features=128, out_features=128, bias=True)
+      )
+      (feed_forward): Sequential(
+        (0): Linear(in_features=128, out_features=512, bias=True)
+        (1): ReLU()
+        (2): Dropout(p=0.1, inplace=False)
+        (3): Linear(in_features=512, out_features=128, bias=True)
+      )
+      (layer_norm1): LayerNorm((128,), eps=1e-05, elementwise_affine=True)
+      (layer_norm2): LayerNorm((128,), eps=1e-05, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+  )
+  (decoder_layers): ModuleList(
+    (0-5): 6 x TransformerDecoderLayer(
+      (self_attention): MultiheadAttention(
+        (out_proj): NonDynamicallyQuantizableLinear(in_features=128, out_features=128, bias=True)
+      )
+      (enc_dec_attention): MultiheadAttention(
+        (out_proj): NonDynamicallyQuantizableLinear(in_features=128, out_features=128, bias=True)
+      )
+      (feed_forward): Sequential(
+        (0): Linear(in_features=128, out_features=512, bias=True)
+        (1): ReLU()
+        (2): Dropout(p=0.1, inplace=False)
+        (3): Linear(in_features=512, out_features=128, bias=True)
+      )
+      (layer_norm1): LayerNorm((128,), eps=1e-05, elementwise_affine=True)
+      (layer_norm2): LayerNorm((128,), eps=1e-05, elementwise_affine=True)
+      (layer_norm3): LayerNorm((128,), eps=1e-05, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+  )
+  (fc): Linear(in_features=128, out_features=2, bias=True)
+  (softmax): Softmax(dim=-1)
+)
