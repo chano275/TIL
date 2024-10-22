@@ -1,0 +1,2 @@
+Tokens: ['the', 'traffic', 'situation', 'in', 'seoul', 'is', 'getting', 'worse', 'due', 'to', 'heavy', 'rain', '.']
+Token IDs: [1996, 4026, 3663, 1999, 10884, 2003, 2893, 4788, 2349, 2000, 3082, 4542, 1012]
