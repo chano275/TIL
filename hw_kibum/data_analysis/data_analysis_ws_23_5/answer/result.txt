@@ -1,0 +1,7 @@
+{'eval_loss': 0.5834385752677917, 'eval_accuracy': 0.9523809523809523, 'eval_runtime': 3.42, 'eval_samples_per_second': 6.14, 'eval_steps_per_second': 0.585, 'epoch': 1.0}
+{'eval_loss': 0.35985061526298523, 'eval_accuracy': 0.9523809523809523, 'eval_runtime': 3.183, 'eval_samples_per_second': 6.598, 'eval_steps_per_second': 0.628, 'epoch': 2.0}
+{'eval_loss': 0.2122751921415329, 'eval_accuracy': 0.9523809523809523, 'eval_runtime': 3.588, 'eval_samples_per_second': 5.853, 'eval_steps_per_second': 0.557, 'epoch': 3.0}
+{'train_runtime': 176.8551, 'train_samples_per_second': 1.357, 'train_steps_per_second': 0.085, 'train_loss': 0.4655691464742025, 'epoch': 3.0}
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 15/15 [02:56<00:00, 11.79s/it] 
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00,  2.58it/s]
+Evaluation results: {'eval_loss': 0.2122751921415329, 'eval_accuracy': 0.9523809523809523, 'eval_runtime': 3.2425, 'eval_samples_per_second': 6.477, 'eval_steps_per_second': 0.617, 'epoch': 3.0}

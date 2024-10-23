@@ -1,0 +1,15 @@
+Train dataset: Dataset({
+    features: ['label', 'input_ids', 'token_type_ids', 'attention_mask'],
+    num_rows: 80
+})
+Test dataset: Dataset({
+    features: ['label', 'input_ids', 'token_type_ids', 'attention_mask'],
+    num_rows: 21
+})
+tokenizer: BertTokenizerFast(name_or_path='klue/roberta-base', vocab_size=32000, model_max_length=512, is_fast=True, padding_side='right', truncation_side='right', special_tokens={'bos_token': '[CLS]', 'eos_token': '[SEP]', 'unk_token': '[UNK]', 'sep_token': '[SEP]', 'pad_token': '[PAD]', 'cls_token': '[CLS]', 'mask_token': '[MASK]'}, clean_up_tokenization_spaces=False),  added_tokens_decoder={
+        0: AddedToken("[CLS]", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+        1: AddedToken("[PAD]", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+        2: AddedToken("[SEP]", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+        3: AddedToken("[UNK]", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+        4: AddedToken("[MASK]", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+}

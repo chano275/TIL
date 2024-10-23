@@ -1,0 +1,4 @@
+Tokens(BERT): ['the', 'traffic', 'situation', 'in', 'seoul', 'is', 'getting', 'worse', 'due', 'to', 'heavy', 'rain', '.']
+Token IDs(BERT): [1996, 4026, 3663, 1999, 10884, 2003, 2893, 4788, 2349, 2000, 3082, 4542, 1012]
+Tokens(RoBERTa): ['The', 'Ġtraffic', 'Ġsituation', 'Ġin', 'ĠSeoul', 'Ġis', 'Ġgetting', 'Ġworse', 'Ġdue', 'Ġto', 'Ġheavy', 'Ġrain', '.']
+Token IDs(RoBERTa): [133, 1703, 1068, 11, 9176, 16, 562, 3007, 528, 7, 2016, 1895, 4]
