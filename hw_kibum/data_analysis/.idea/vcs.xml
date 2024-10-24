@@ -20,6 +20,8 @@
     <mapping directory="$PROJECT_DIR$/data_analysis_hw_22_4" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data_analysis_hw_23_2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data_analysis_hw_23_4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data_analysis_hw_24_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data_analysis_hw_24_4" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data_analysis_ws_15_1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data_analysis_ws_15_2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data_analysis_ws_15_3" vcs="Git" />
@@ -55,5 +57,10 @@
     <mapping directory="$PROJECT_DIR$/data_analysis_ws_22_3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data_analysis_ws_22_4" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data_analysis_ws_22_5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data_analysis_ws_24_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data_analysis_ws_24_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data_analysis_ws_24_3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data_analysis_ws_24_4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data_analysis_ws_24_5" vcs="Git" />
   </component>
 </project>
