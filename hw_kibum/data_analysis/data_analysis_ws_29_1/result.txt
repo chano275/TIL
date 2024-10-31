@@ -1,0 +1,68 @@
+로드된 텍스트 청크 수: 23
+page_content='South Korea
+Regulatory developments and roadblocks
+Key Korean government agencies and their roles
+Government agencies
+Role
+Governing/Relevant Laws
+Ministry of Land, 
+Infrastructure and 
+Transport (MOLIT)
+(n.b. KATRI (Korea 
+Automobile Testing & 
+Research Institute) is an 
+institution under MOLIT)
+Provides ITS (Intelligent 
+Transport Systems) services 
+and platforms.133
+Makes Laws & Regulations (e.g., 
+Announces safety standards for 
+Level 3 AVs).
+Motor Vehicle Management Act
+This is a law governing the management, performance quality and 
+safety of automobiles. It serves as the basis for operating AVs, e.g., 
+provides the definition of AV, allows test driving, etc.
+The Enforcement Decree of this Act stipulates the requirements for 
+safe driving and test driving of autonomous vehicles.
+Guarantee of Automobile Accident Compensation Act
+This is a law that governs compensation for damage caused by 
+the operation of automobiles. The Act specifies the obligations 
+of the car owners, e.g., to subscribe to an insurance policy. (A 
+requirement for insurance, even for the operation of test-driving, is 
+stated in this law as well).
+Ministry of Science and 
+ICT (MSIT)
+Information and Communication 
+Technology Infrastructure
+ICT Service/Platform
+Frequency Distribution
+Transport for NSW
+Korean National Police 
+Agency (KNPA)
+Governs/regulates matters 
+occurring on the roads 
+(e.g., accidents).
+Issues driving licenses / Verifies 
+authenticity of the licenses.
+Builds high-tech infrastructure in 
+response to development of AVs 
+(Currently in the process).
+Road Traffic Act Amendment
+This is a law that aims to resolve traffic problems on the road and 
+regulate safe driving.
+From April 20, 2022, a partial amendment to the Road Traffic Act 
+became effective. The new amendment adds the definition of a 
+“self-driving motor vehicle” as a motor vehicle (i) which can move 
+on its own without the control of a driver or passenger, and (ii) 
+is equipped with a self-driving system. A “self-driving system” 
+means automated equipment, software and all other related 
+devices that enable the motor vehicle to move by recognizing and 
+judging surrounding circumstances and road information on its 
+own without the input of a driver or passenger. In addition, using 
+vehicles, horse-led carts, or trams on the road through a self-
+driving system is also included in the definition of “driving.”
+133      Major ITS services and platforms designed and provided by MOLIT include AFC (Automatic Fare Collection), ETCS (Electronic Toll 
+Collection System), and ATES (Automatic Traffic Enforcement System). The government provides national ITS data collected as 
+such to the private sector to help the private sector with enhancing and expanding their ITS services. 
+68   •   AV Global Guide 2024
+' metadata={'source': 'canada_av-68-90.pdf', 'file_path': 'canada_av-68-90.pdf', 'page': 0, 'total_pages': 23, 'format': 'PDF 1.4', 'title': '', 'author': '', 'subject': '', 'keywords': '', 'creator': '', 'producer': 'iLovePDF', 'creationDate': '', 'modDate': 'D:20241023111023Z', 'trapped': ''}
