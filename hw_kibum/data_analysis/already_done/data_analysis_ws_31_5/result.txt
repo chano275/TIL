@@ -1,0 +1,3 @@
+사용자 정의 메트릭을 활용한 평가가 완료되었습니다.
+{'toxicity/v1/mean': 0.005284985818434507, 'toxicity/v1/variance': 2.882362915416835e-06, 'toxicity/v1/p90': 0.007117796456441283, 'toxicity/v1/ratio': 0.0, 'flesch_kincaid_grade_level/v1/mean': 2.4499999999999997, 'flesch_kincaid_grade_level/v1/variance': 0.6425000000000001, 'flesch_kincaid_grade_level/v1/p90': 3.3600000000000003, 'ari_grade_level/v1/mean': 1.125, 'ari_grade_level/v1/variance': 1.4868750000000002, 'ari_grade_level/v1/p90': 2.34, 'exact_match/v1': 0.0, 'answer_similarity/v1/mean': 4.0, 'answer_similarity/v1/variance': 0.5, 'answer_similarity/v1/p90': 4.7, 'professionalism/v1/mean': 5.0, 'professionalism/v1/variance': 0.0, 'professionalism/v1/p90': 5.0}
+

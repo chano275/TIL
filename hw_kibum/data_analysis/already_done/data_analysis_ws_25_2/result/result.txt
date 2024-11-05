@@ -1,5 +1,0 @@
-tokenized_dataset: Dataset({
-    features: ['id', 'text', 'input_ids', 'token_type_ids', 'attention_mask', 'labels'],
-    num_rows: 100
-})
-데이터셋이 성공적으로 로드되고 전처리되었습니다.

@@ -1,0 +1,8 @@
+messages:
+- content: "\uB2E4\uC74C \uAE08\uC735 \uAD00\uB828 \uC9C8\uBB38\uC5D0 \uD55C \uBB38\
+    \uC7A5\uC73C\uB85C \uB2F5\uBCC0\uD558\uC138\uC694."
+  role: system
+- content: '{question}'
+  role: user
+model: gpt-4o-mini
+task: chat.completions

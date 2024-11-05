@@ -1,0 +1,2 @@
+기본 메트릭을 사용한 평가가 완료되었습니다.
+{'toxicity/v1/mean': 0.004839582077693194, 'toxicity/v1/variance': 2.2852239559193674e-06, 'toxicity/v1/p90': 0.006486673140898347, 'toxicity/v1/ratio': 0.0, 'flesch_kincaid_grade_level/v1/mean': 2.9250000000000003, 'flesch_kincaid_grade_level/v1/variance': 1.186875, 'flesch_kincaid_grade_level/v1/p90': 4.08, 'ari_grade_level/v1/mean': 1.425, 'ari_grade_level/v1/variance': 1.296875, 'ari_grade_level/v1/p90': 2.5100000000000002, 'exact_match/v1': 0.0}

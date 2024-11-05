@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/SSAFY/Desktop/TIL/hw_kibum/data_analysis/data_analysis_hw_31_2/mlruns/0/2f2313eb9d9545e7b044f2d256402e6c/artifacts
+end_time: 1730689193255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f2313eb9d9545e7b044f2d256402e6c
+run_name: hilarious-fox-269
+run_uuid: 2f2313eb9d9545e7b044f2d256402e6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730689185708
+status: 4
+tags: []
+user_id: SSAFY

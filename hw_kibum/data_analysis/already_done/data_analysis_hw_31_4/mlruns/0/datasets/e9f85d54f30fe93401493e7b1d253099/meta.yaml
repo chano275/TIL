@@ -1,0 +1,8 @@
+digest: 8f3aac5c
+name: dataset
+profile: '{"num_rows": 4, "num_elements": 8}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "inputs", "required": true},
+  {"type": "string", "name": "ground_truth", "required": true}]}'
+source: '{"tags": {"mlflow.user": "SSAFY", "mlflow.source.name": "C:/Users/SSAFY/Desktop/TIL/hw_kibum/data_analysis/data_analysis_hw_31_4/skeleton.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "5c4d7681c21256ca15c39d6fed26eb44d5ed763e"}}'
+source_type: code

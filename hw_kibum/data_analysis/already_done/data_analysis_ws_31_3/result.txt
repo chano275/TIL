@@ -1,0 +1,52 @@
+답변 유사도 및 전문성 평가를 위한 메트릭이 설정되었습니다.
+professionalism_metric: EvaluationMetric(name=professionalism, greater_is_better=True, long_name=professionalism, version=v1, metric_details=
+Task:
+You must return the following fields in your response in two lines, one below the other:
+score: Your numerical score for the model's professionalism based on the rubric
+justification: Your reasoning about the model's professionalism score
+
+You are an impartial judge. You will be given an input that was sent to a machine
+learning model, and you will be given an output that the model produced. You
+may also be given additional information that was used by the model to generate the output.
+
+Your task is to determine a numerical score called professionalism based on the input and output.
+A definition of professionalism and a grading rubric are provided below.
+You must use the grading rubric to determine your score. You must also justify your score.
+
+Examples could be included below for reference. Make sure to use them as references and to
+understand them before completing the task.
+
+Input:
+{input}
+
+Output:
+{output}
+
+{grading_context_columns}
+
+Metric definition:
+전문성은 격식 있고 적절한 언어 사용을 통해 문맥에 맞는 응답을 측정합니다.
+
+Grading rubric:
+전문성: 응답이 격식 있는 톤으로 작성되었는지 여부를 아래 기준에 따라 점수로 매기세요...
+score: 점수 (숫자)
+justification: 평가 근거
+
+Examples:
+
+Example Input:
+현재 시내 교통 상황은 어떤가요?
+
+Example Output:
+시내 교통 흐름은 상당히 혼잡하며 속도가 느립니다.
+
+Example score: 4
+Example justification: 응답이 격식 있고 교통 상황을 적절히 설명하는 언어를 사용하였습니다.
+        
+
+You must return the following fields in your response in two lines, one below the other:
+score: Your numerical score for the model's professionalism based on the rubric
+justification: Your reasoning about the model's professionalism score
+
+Do not add additional new lines. Do not add any other fields.
+    )

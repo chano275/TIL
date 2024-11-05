@@ -1,0 +1,44 @@
+모델 평가가 완료되었습니다.
+평가 메트릭:
+{'toxicity/v1/mean': np.float64(0.0034920695470646024), 'toxicity/v1/variance': np.float64(2.784799320625699e-07), 'toxicity/v1/p90': np.float64(0.004024545499123633), 'toxicity/v1/ratio': 0.0, 'flesch_kincaid_grade_level/v1/mean': np.float64(4.1499999999999995), 'flesch_kincaid_grade_level/v1/variance': np.float64(10.202499999999999), 'flesch_kincaid_grade_level/v1/p90': np.float64(7.6800000000000015), 'ari_grade_level/v1/mean': np.float64(5.9750000000000005), 'ari_grade_level/v1/variance': np.float64(52.441875), 'ari_grade_level/v1/p90': np.float64(13.950000000000003), 'exact_match/v1': 0.0, 'answer_similarity/v1/mean': np.float64(5.0), 'answer_similarity/v1/variance': np.float64(0.0), 'answer_similarity/v1/p90': np.float64(5.0), 'professionalism/v1/mean': np.float64(4.0), 'professionalism/v1/variance': np.float64(0.0), 'professionalism/v1/p90': np.float64(4.0)}
+
+
+Available columns: Index(['inputs', 'ground_truth', 'outputs', 'token_count', 'toxicity/v1/score',
+       'flesch_kincaid_grade_level/v1/score', 'ari_grade_level/v1/score',
+       'answer_similarity/v1/score', 'answer_similarity/v1/justification',
+       'professionalism/v1/score', 'professionalism/v1/justification'],
+      dtype='object')
+질문: 주식 시장에서 분산 투자의 의미는 무엇인가요?
+모델 응답: 주식 시장에서 분산 투자는 투자 포트폴리오에 여러 자산을 포함시켜 위험을 줄이고 안정성을 높이는 전략을 의미합니다.
+기대 답변: 분산 투자는 위험을 줄이기 위해 다양한 자산에 투자하는 것입니다.
+answer_similarity score: 5
+answer_similarity justification: 답변이 분산 투자의 개념을 정확하게 설명하고 있으며, 위험 감소와 안정성 향상이라는 핵심 요소를 포함하고 있습니다.
+professionalism score: 4
+professionalism justification: 응답이 격식 있고 전문적인 톤으로 작성되었으며, 정확한 정보를 제공합니다.
+
+
+질문: 채권 투자의 주요 이점은 무엇인가요?
+모델 응답: 채권 투자의 주요 이점은 안정적인 수익을 제공하고, 주식보다 낮은 위험을 감수할 수 있다는 점입니다.
+기대 답변: 채권 투자는 안정적인 이자 수익을 제공합니다.
+answer_similarity score: 5
+answer_similarity justification: 모델의 답변은 채권 투자의 주요 이점을 정확하게 설명하고 있으며, 안정적인 수익과 낮은 위험을 강조하여 질문에 완벽하게 부합합니다.
+professionalism score: 4
+professionalism justification: 응답이 격식 있고 정확한 정보를 제공하며, 전문적인 톤으로 작성되었습니다.
+
+
+질문: ETF는 무엇의 약자인가요?
+모델 응답: ETF는 "Exchange-Traded Fund"의 약자입니다.
+기대 답변: ETF는 상장지수펀드의 약자입니다.
+answer_similarity score: 5
+answer_similarity justification: 답변이 정확하며 ETF의 정의를 명확하게 설명하고 있어 기준 답변과 완벽하게 유사합니다.
+professionalism score: 4
+professionalism justification: 응답이 격식 있고 정확한 정보를 제공합니다.
+
+
+질문: 인플레이션이 경제에 미치는 영향은 무엇인가요?
+모델 응답: 인플레이션은 구매력을 감소시키고, 자산 가격에 영향을 미치며, 중앙은행의 금리 결정에 중요한 역할을 하여 경제 전반에 다양한 영향을 미칩니다.
+기대 답변: 인플레이션은 화폐의 가치를 감소시켜 구매력을 하락시킵니다.
+answer_similarity score: 5
+answer_similarity justification: 답변이 인플레이션의 경제적 영향에 대해 정확하고 포괄적으로 설명하고 있으며, 질문의 핵심을 잘 반영하고 있습니다.
+professionalism score: 4
+professionalism justification: 응답이 격식 있고 전문적인 톤으로 작성되었으며, 인플레이션의 경제적 영향을 정확하게 설명하고 있습니다.

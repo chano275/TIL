@@ -1,0 +1,21 @@
+artifact_path: model
+flavors:
+  openai:
+    code: null
+    data: model.yaml
+    openai_version: 1.52.2
+  python_function:
+    data: model.yaml
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.openai
+    python_version: 3.9.13
+mlflow_version: 2.17.2
+model_uuid: 6d3def6a6a534b46a0d8e3d5f29af983
+run_id: 09615a2cc2b946479da62cbf5873a40f
+signature:
+  inputs: '[{"type": "string", "required": true}]'
+  outputs: '[{"type": "string", "required": true}]'
+  params: null
+utc_time_created: '2024-11-04 03:00:50.153759'

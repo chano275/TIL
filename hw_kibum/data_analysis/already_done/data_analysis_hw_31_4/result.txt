@@ -1,0 +1,31 @@
+모델 평가가 완료되었습니다.
+평가 메트릭:
+{'toxicity/v1/mean': np.float64(0.003836331539787352), 'toxicity/v1/variance': np.float64(3.521430639479218e-07), 'toxicity/v1/p90': np.float64(0.004454571520909667), 'toxicity/v1/ratio': 0.0, 'flesch_kincaid_grade_level/v1/mean': np.float64(5.575), 'flesch_kincaid_grade_level/v1/variance': np.float64(7.701874999999999), 'flesch_kincaid_grade_level/v1/p90': np.float64(8.73), 'ari_grade_level/v1/mean': np.float64(7.575), 'ari_grade_level/v1/variance': np.float64(42.68187500000001), 'ari_grade_level/v1/p90': np.float64(14.970000000000002), 'exact_match/v1': 0.0, 'answer_similarity/v1/mean': np.float64(5.0), 'answer_similarity/v1/variance': np.float64(0.0), 'answer_similarity/v1/p90': np.float64(5.0)}
+
+
+질문: 주식 시장에서 분산 투자의 의미는 무엇인가요 ?
+모델 응답: 주식 시장에서 분산 투자는 risk를 줄이기 위해 다양한 자산에 투자하여 손실을 최소화하고 안정적인 수익을 추구하는 전략을 의미합니다.
+기대 답변: 분산 투자는 위험을 줄이기 위해 다양한 자산에 투자하는 것입니다.
+Answer Similarity Score: 5
+Answer Similarity Justification: 모델의 답변은 분산 투자의 의미를 정확하게 설명하고 있으며, 손실 최소화와 안정적인 수익 추구라는 핵심 요소를 포함하고 있습니다.
+
+
+질문: 채권 투자로 얻을 수 있는 주요 이점은 무엇인가요 ?
+모델 응답: 채권 투자는 안정적인 수익을 제공하고, 포트폴리오 다각화 및 금리 변동에 대한 헤지를 통해 리스크를 줄이는 데 도움을 줍니다.
+기대 답변: 채권 투자는 안정적인 이자 수익을 제공합니다.
+Answer Similarity Score: 5
+Answer Similarity Justification: 모델의 답변은 채권 투자로 얻을 수 있는 주요 이점을 정확하게 설명하고 있으며, 안정적인 수익, 포트폴리오 다각화, 리스크 감소 등 핵심 요소를 모두 포함하고 있습니다.
+
+
+질문: ETF는 무엇의 약자인가요 ?
+모델 응답: ETF는 "Exchange-Traded Fund"의 약자입니다.
+기대 답변: ETF는 상장지수펀드의 약자입니다.
+Answer Similarity Score: 5
+Answer Similarity Justification: 모델의 응답은 ETF의 정확한 정의를 제공하며, 질문에 대한 완벽한 답변을 하고 있습니다.
+
+
+질문: 인플레이션이 경제에 미치는 영향은 무엇인가요 ?
+모델 응답: 인플레이션은 구매력을 감소시키고, 소비자 및 기업의 의사결정에 영향을 미치며, 고정 수입자에게는 불리한 영향을 주고, 금리 및 화폐 가치 변동을 초래하여 경제 전반에 여러 가지 복합적인 영향을 미칩니다.
+기대 답변: 인플레이션은 화폐 가치의 감소로 구매력을 하락시킵니다.
+Answer Similarity Score: 5
+Answer Similarity Justification: 모델의 답변은 인플레이션이 경제에 미치는 다양한 영향을 정확하고 포괄적으로 설명하고 있어 기준 답변과 완벽하게 유사합니다.

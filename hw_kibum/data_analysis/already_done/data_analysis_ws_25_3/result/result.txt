@@ -1,4 +1,0 @@
-Batch 'input_ids' shape: torch.Size([2, 128])
-Batch 'attention_mask' shape: torch.Size([2, 128])
-Batch 'labels' shape: torch.Size([2, 128])
-데이터로더 설정 완료.
