@@ -1,0 +1,15 @@
+CLAUDE - Generated text for '신호등 고장': 신호등 고장을 발견하면 비상등을 켜고 서행 운전하세요.
+CLAUDE - Generated text for '신호등 고장': 다른 운전자들에게 수신호로 신호등 고장 상황을 알려주세요.
+CLAUDE - Generated text for '신호등 고장': 교차로 진입 전 좌우를 충분히 확인하며 안전 운전하세요.
+CLAUDE - Generated text for '신호등 고장': 인근 교통경찰이나 모범운전자의 수신호를 준수하며 운행하세요.
+CLAUDE - Generated text for '신호등 고장': 교통 상황을 예의주시하며 앞차와 충분한 안전거리를 유지하세요.
+CLAUDE - Generated text for '차량 정체': 교통 정체 상황에서는 다른 차량과 안전거리를 충분히 유지하며 운전하세요.
+CLAUDE - Generated text for '차량 정체': 스트레스 해소를 위해 즐거운 음악을 듣거나 심호흡을 하세요.
+CLAUDE - Generated text for '차량 정체': 차선 변경이 잦은 운전은 피하고 한 차선을 유지하며 주행하세요.
+CLAUDE - Generated text for '차량 정체': 교통 정보 앱을 활용하여 우회도로를 찾아보세요.
+CLAUDE - Generated text for '차량 정체': 불필요한 경적 사용을 자제하고 다른 운전자를 배려하세요.
+CLAUDE - Generated text for '교통사고': 교통사고 현장을 사진이나 동영상으로 증거자료를 남겨두세요.
+CLAUDE - Generated text for '교통사고': 사고 발생 즉시 112나 119에 신고하여 신속한 도움을 요청하세요.
+CLAUDE - Generated text for '교통사고': 부상자가 있다면 2차 사고 예방을 위해 안전한 곳으로 이동시키세요.
+CLAUDE - Generated text for '교통사고': 보험사에 연락하여 사고 처리 절차를 안내받고 따르세요.
+CLAUDE - Generated text for '교통사고': 목격자가 있다면 연락처를 확보하여 추후 진술에 도움을 받으세요.
